@@ -1,1 +1,1 @@
-linea qualcosa qualcosa2
+linea qualcosa qualcosa2 CONFLITTO
