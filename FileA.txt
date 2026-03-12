@@ -1,3 +1,4 @@
 linea qualcosa qualcosa2 CONFLITTO
 operazione dopo MERGE
 modifica
+altra linea
