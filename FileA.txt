@@ -1,2 +1,3 @@
 linea qualcosa qualcosa2 CONFLITTO
 operazione dopo merge
+modifica
