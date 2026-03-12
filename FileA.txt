@@ -1,4 +1,4 @@
-linea qualcosa qualcosa2 CONFLITTO cambiamento
+linea qualcosa qualcosa2 CONFLITTO ciao
 operazione dopo MERGE
 modifica
 altra linea
